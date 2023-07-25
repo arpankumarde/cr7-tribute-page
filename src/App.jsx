@@ -1,5 +1,5 @@
 import React from 'react';
-import { Navbar, Hero, Achievements, Records, Footer } from './components';
+import { Navbar, Hero, Achievements, Records, Gallery, Footer } from './components';
 
 function App() {
   return (
@@ -8,6 +8,7 @@ function App() {
       <Hero />
       <Achievements />
       <Records />
+      <Gallery />
       <Footer />
     </>
   )
