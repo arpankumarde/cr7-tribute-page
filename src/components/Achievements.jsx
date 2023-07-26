@@ -2,7 +2,11 @@ import React from 'react'
 
 const Achievements = () => {
   return (
-    <div>Achievements</div>
+    <section className="flex bg-primary text-secondary2">
+      <h2>Achievements</h2>
+      <div className="flex">
+      </div>
+    </section>
   )
 }
 
