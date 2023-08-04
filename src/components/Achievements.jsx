@@ -4,7 +4,7 @@ import { RecordCard } from '../ui';
 
 const Achievements = () => {
   return (
-    <section className='bg-primary text-slate-200 flex flex-col gap-4 p-4 md:p-8'>
+    <section className='bg-primary text-slate-200 flex flex-col gap-4 p-4 md:p-8 md:py-4' id='achievements'>
       <h2 className='text-white text-4xl font-monoton -mb-2'>Achievements</h2>
       <div>
         <h3 className='text-slate-100 text-2xl'>Individual Achievements</h3>
