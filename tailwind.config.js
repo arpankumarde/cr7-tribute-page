@@ -6,6 +6,9 @@ export default {
   ],
   theme: {
     extend: {
+      fontFamily: {
+        'monoton': ['Monoton', 'cursive']
+      },
       colors: {
         'primary': '#171717',
         'primary2': '#444444',

@@ -1,0 +1,201 @@
+[
+  {
+    "name": "FIFA Ballon d'Or",
+    "count": 5,
+    "type": "individual"
+  },
+  {
+    "name": "FIFA World Player of the Year",
+    "count": 1,
+    "type": "individual"
+  },
+  {
+    "name": "The Best FIFA Men's Player",
+    "count": 2,
+    "type": "individual"
+  },
+  {
+    "name": "The Best FIFA Special Award for Outstanding Career Achievement",
+    "count": 1,
+    "type": "individual"
+  },
+  {
+    "name": "UEFA Men's Player of the Year Award",
+    "count": 4,
+    "type": "individual"
+  },
+  {
+    "name": "European Golden Shoe",
+    "count": 4,
+    "type": "individual"
+  },
+  {
+    "name": "Golden Foot",
+    "count": 1,
+    "type": "individual"
+  },
+  {
+    "name": "FIFA Club World Cup Golden Ball",
+    "count": 1,
+    "type": "individual"
+  },
+  {
+    "name": "FIFA Puskás Award",
+    "count": 1,
+    "type": "individual"
+  },
+  {
+    "name": "UEFA European Championship Team of the Tournament",
+    "count": 3,
+    "type": "individual"
+  },
+  {
+    "name": "Premier League Player of the Season",
+    "count": 2,
+    "type": "individual"
+  },
+  {
+    "name": "La Liga Best Player",
+    "count": 1,
+    "type": "individual"
+  },
+  {
+    "name": "Serie A Footballer of the Year",
+    "count": 2,
+    "type": "individual"
+  },
+  {
+    "name": "Premier League Golden Boot",
+    "count": 1,
+    "type": "individual"
+  },
+  {
+    "name": "Pichichi Trophy",
+    "count": 3,
+    "type": "individual"
+  },
+  {
+    "name": "Capocannoniere",
+    "count": 1,
+    "type": "individual"
+  },
+  {
+    "name": "FPF Portuguese Player of the Year",
+    "count": 5,
+    "type": "individual"
+  },
+  {
+    "name": "Supertaça Cândido de Oliveira",
+    "count": 1,
+    "type": "club",
+    "club": "Sporting CP"
+  },
+  {
+    "name": "Premier League",
+    "count": 3,
+    "type": "club",
+    "club": "Manchestar United"
+  },
+  {
+    "name": "FA Cup",
+    "count": 1,
+    "type": "club",
+    "club": "Manchestar United"
+  },
+  {
+    "name": "Football League Cup",
+    "count": 2,
+    "type": "club",
+    "club": "Manchestar United"
+  },
+  {
+    "name": "FA Community Shield",
+    "count": 1,
+    "type": "club",
+    "club": "Manchestar United"
+  },
+  {
+    "name": "UEFA Champions League",
+    "count": 1,
+    "type": "club",
+    "club": "Manchestar United"
+  },
+  {
+    "name": "UEFA Champions League",
+    "count": 1,
+    "type": "club",
+    "club": "Manchestar United"
+  },
+  {
+    "name": "La Liga",
+    "count": 2,
+    "type": "club",
+    "club": "Real Madrid"
+  },
+  {
+    "name": "Copa del Rey",
+    "count": 2,
+    "type": "club",
+    "club": "Real Madrid"
+  },
+  {
+    "name": "Supercopa de España",
+    "count": 2,
+    "type": "club",
+    "club": "Real Madrid"
+  },
+  {
+    "name": "UEFA Champions League",
+    "count": 4,
+    "type": "club",
+    "club": "Real Madrid"
+  },
+  {
+    "name": "UEFA Super Cup",
+    "count": 2,
+    "type": "club",
+    "club": "Real Madrid"
+  },
+  {
+    "name": "FIFA Club World Cup",
+    "count": 3,
+    "type": "club",
+    "club": "Real Madrid"
+  },
+  {
+    "name": "Serie A",
+    "count": 2,
+    "type": "club",
+    "club": "Juventus"
+  },
+  {
+    "name": "Coppa Italia",
+    "count": 1,
+    "type": "club",
+    "club": "Juventus"
+  },
+  {
+    "name": "Supercoppa Italiana",
+    "count": 2,
+    "type": "club",
+    "club": "Juventus"
+  },
+  {
+    "name": "Toulon Tournament",
+    "count": 1,
+    "type": "club",
+    "club": "Portugal"
+  },
+  {
+    "name": "UEFA European Championship",
+    "count": 1,
+    "type": "club",
+    "club": "Portugal"
+  },
+  {
+    "name": "UEFA Nations League",
+    "count": 1,
+    "type": "club",
+    "club": "Portugal"
+  }
+]
